@@ -6,7 +6,7 @@ for (i = 1; i <= num; i++) {
     count++;
   }
 }
-if (count > 2) {
+if (count = 2) {
   console.log("This is not a prim number");
 } else {
   console.log("This is a prim number");
